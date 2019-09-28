@@ -1,22 +1,43 @@
-.App {
-  text-align: center;
+.header{
+  background-image: radial-gradient( circle farthest-corner at -4% -12.9%,  rgba(74,98,110,1) 0.3%, rgba(30,33,48,1) 90.2% );
+}
+.drawer{
+  background-image: radial-gradient( circle farthest-corner at -4% -12.9%,  rgba(74,98,110,1) 0.3%, rgba(30,33,48,1) 90.2% );
 }
 
-.App-logo {
-  height: 40vmin;
+#user{
+  margin-top: 2%;
+  color: #ffffff;
+  font-size: 32px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#phone,#location{
+  color: #ffffff;
+  font-size: 32px;
 }
+#email{
+  margin-left:-0.4%;
+  font-size: 32px;
+  color: #ffffff;
+}
+.details{
+  margin-left: 3.5%;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.detail{
+  margin-left: 6.5%;
+  color: #ffffff;
+  font-size: 30px;
 
-.App-link {
-  color: #09d3ac;
+}
+.detail1 {
+  margin-left: 16.5%;
+  color: #ffffff;
+  font-size: 30px;
+}
+.detail2{
+  margin-left: 25.5%;
+  color: #ffffff;
+  font-size: 30px;
 }
