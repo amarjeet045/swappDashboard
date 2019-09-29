@@ -4,7 +4,7 @@ export default class Addmaps extends Component {
     render() {
         return (
             <div>
-                Addmaps
+                <h3>Addmaps</h3>
             </div>
         )
     }
